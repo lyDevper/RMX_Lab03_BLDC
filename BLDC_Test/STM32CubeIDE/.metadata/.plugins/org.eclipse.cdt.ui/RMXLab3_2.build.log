@@ -1,0 +1,10 @@
+18:26:40 **** Incremental Build of configuration Debug for project RMXLab3_2 ****
+make -j12 all 
+arm-none-eabi-size  RMXLab3_2.elf 
+   text	   data	    bss	    dec	    hex	filename
+  36148	   1160	   7160	  44468	   adb4	RMXLab3_2.elf
+Finished building: default.size.stdout
+ 
+
+18:26:40 Build Finished. 0 errors, 0 warnings. (took 418ms)
+
